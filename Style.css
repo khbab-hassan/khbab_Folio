@@ -1,0 +1,129 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+
+#AAU{
+
+margin-left: 30px;
+    
+        
+}
+
+header{
+    
+    background-color:black;
+  
+}
+
+li{
+    
+    display: inline;
+    padding-left: 20px;
+    font-family:arial;
+    
+    
+    
+   
+}
+
+ul{
+    
+   
+    margin-top: 25px;
+   padding-right: 900px;
+    
+}
+
+
+.search {
+    
+    float: right;
+    padding-right: 600px;
+    margin-top: -17px;
+   
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+a:hover {
+    
+    color: red;
+    
+}
+
+
+
+
+
+
+.title h1{
+   
+    color: white;
+    font-size: 100px;
+    float: left;
+    
+    
+    
+}
+
+.title{
+    
+    
+    padding-left: 40px;
+    padding-bottom: 30px;
+}
+
+
+
+.o{
+    height: 400px;
+    margin-top: 100px;
+    padding-left: 90px; 
+    
+    
+    
+}
+
+.mu{
+font-family: arial;
+font-size: 40px;
+text-align: center;
+padding-right:120px;  
+padding-bottom: 50px;    
+}
+
+img{
+    padding-left: 20px;
+}
+
+
+
+#body1{
+    min-height: 700px;
+    background:url("images/gitar.jpg"); 
+    
+    
+}
+
+
+.copy{
+    
+    text-align: center;
+    font-size:15px;
+    font-family: arial;
+    background-color: orangered;
+    color: white;
+    min-height: 20px;
+    
+    
+    
+}

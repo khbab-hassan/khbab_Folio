@@ -1,0 +1,231 @@
+*,body,html{
+    
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+
+#AAU{
+
+margin-left: 30px;
+    
+        
+}
+
+header{
+    
+    background-color:black;
+  
+}
+
+li{
+    
+    display: inline-block;
+    padding-left: 20px;
+    font-family:arial;
+    
+    
+    
+   
+}
+
+ul{
+    
+    float: right;
+    margin-top: 25px;
+   padding-right: 800px;
+    margin-right: 100px;
+    
+}
+
+
+.search {
+    
+    float: right;
+    padding-right: 600px;
+    margin-top: -17px;
+   
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+a:hover {
+    
+    color: red;
+    
+}
+
+.hello{
+    
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    padding-left: 112px;
+    
+}
+
+.adele{
+    
+    font-size: 15px;
+    font-family: arial;
+    color: white;
+    padding-left: 120px;
+    
+}
+
+.first-song{
+    
+    background-color: #034da8;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+.second-song{
+    
+    background-color: #034da8;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    
+}
+
+.imagine{
+    
+    padding-left: 130px;
+    font-family: arial;
+    color: white;
+    
+}
+
+.rahib {
+    
+    
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    padding-left: 80px;
+    
+}
+
+.thired-song {
+    
+    
+    background-color:#034da8; 
+    padding-left: 10px;
+    margin-bottom: 30px;
+    
+}
+
+
+.feeling {
+    font-family: arial;
+    font-size: 20px;
+    padding-left: 130px;
+    color: white;
+    
+}
+
+.grby{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    background: url("images/su.jpg") ;
+    min-height: 300px;
+    background-position:top;
+}
+
+.avicii {
+    
+    font-size: 15px;
+    padding-left: 125px;
+    font-family: arial;
+    color: white;
+    
+}
+
+
+.forth-song{
+    background-color:#034da8;
+    padding-left: 10px;
+    margin-bottom: 30px
+    
+    
+}
+
+
+.thinking{
+    
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    padding-left: 125px;
+    
+}
+
+.ed{
+    
+    font-size: 15px;
+    font-family: arial;
+    padding-left: 123px;
+    color: white;
+    
+    
+}
+
+
+
+.fifth-song{
+    
+    padding-left: 10px;
+    background-color: #034da8;
+    margin-bottom: 30px;
+    
+}
+
+
+.un{
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    padding-left: 115px;
+}
+
+.sia{
+    
+  
+    font-size: 15px;
+    font-family: arial;
+    padding-left: 112px; 
+    color: white;
+}
+
+.sixth-song{
+    
+    padding-left: 10px;
+    background-color: #034da8;
+    margin-bottom: 30px;    
+    
+}
+
+.love{
+    
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    padding-left: 110px;
+    
+    
+}
+
+.justin{
+    
+    font-size: 15px;
+    font-family: arial;
+    padding-left: 115px;  
+    color: white;
+    
+}

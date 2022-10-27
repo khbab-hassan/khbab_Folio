@@ -1,0 +1,224 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+
+#AAU{
+
+margin-left: 30px;
+    
+        
+}
+
+header{
+    
+    background-color:black;
+    
+  
+}
+
+li{
+    
+    display: inline-block;
+    padding-left: 20px;
+    font-family:arial;
+    
+    
+    
+   
+}
+
+ul{
+    
+    float: right;
+    margin-top: 25px;
+   padding-right: 950px;
+    margin-right: 100px;
+    
+}
+
+
+.search {
+    
+    float: right;
+    padding-right: 600px;
+    margin-top: -17px;
+   
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+a:hover {
+    
+    color: red;
+    
+}
+
+.hello{
+    
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    padding-left: 116px;
+    
+}
+
+.adele{
+    
+    font-size: 15px;
+    font-family: arial;
+    color: white;
+    padding-left: 120px;
+    
+}
+
+.first-song{
+    
+    background-color: #1d1414;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+.second-song{
+    
+    background-color: #1d1414;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    
+}
+
+.imagine{
+        
+    padding-left: 100px;
+    font-family: arial;
+    color: white;
+    
+}
+
+.thired-song {
+    
+    
+    background-color:#1d1414; 
+    padding-left: 10px;
+    margin-bottom: 30px;
+    
+}
+
+
+.feeling {
+    font-family: arial;
+    font-size: 20px;
+    padding-left: 100px;
+    color: white;
+    
+}
+
+
+.grby{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    background: url("images/new%20york.jpg");
+    min-height: 300px;
+    background-position: center;
+    
+}
+
+.avicii {
+    
+    font-size: 15px;
+    padding-left: 135px;
+    font-family: arial;
+    color: white;
+    
+}
+
+
+.forth-song{
+    background-color:#1d1414;
+    padding-left: 10px;
+    margin-bottom: 30px
+    
+    
+}
+
+
+.thinking{
+    
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    padding-left: 80px;
+    
+}
+
+.ed{
+    
+    font-size: 15px;
+    font-family: arial;
+    padding-left: 120px;
+    color: white;
+    
+    
+}
+
+
+
+.fifth-song{
+    
+    padding-left: 10px;
+    background-color: #1d1414;
+    margin-bottom: 30px;
+    
+}
+
+
+.un{
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    padding-left: 100px;
+}
+
+.sia{
+    
+  
+    font-size: 15px;
+    font-family: arial;
+    padding-left: 140px; 
+    color: white;
+}
+
+.sixth-song{
+    
+    padding-left: 10px;
+    background-color: #1d1414;
+    margin-bottom: 30px;    
+    
+}
+
+.love{
+    
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    padding-left: 100px;
+    
+    
+}
+
+.justin{
+    
+    font-size: 15px;
+    font-family: arial;
+    padding-left: 118px;  
+    color: white;
+    
+}

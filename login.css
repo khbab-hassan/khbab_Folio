@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(images/KJONoa.jpg);
+}
+
+.textbox{
+    
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    min-height: 200px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.user{
+    
+    margin: 0 auto;
+    display: block;
+}
+
+
+h1{
+    
+    text-align: center;
+  
+}
+
+
+.inputbox input{
+    
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+
+
+.inputbox input[type="text"],
+.inputbox input[type="password"] 
+{
+    
+  border: none;
+  border-bottom: 2px solid #262626;
+    outline: none;
+    height: 40px;
+    color: #262626;
+    background: transparent;
+    font-size: 16px;
+    padding-left: 16px;
+    box-sizing: border-box;
+    
+    
+}
+
+.inputbox input[type="text"]:focus,
+.inputbox input[type="password"]:focus
+{
+    border-bottom: 2px solid #F7941E;
+    
+    
+    
+    
+}
+
+
+.inputbox input[type="submit"]{
+    
+border: none;
+outline: none;
+height: 40px;
+background:#F7941E;
+color: #fff;
+border-radius:20px;
+cursor: pointer;
+    
+    
+}
+
+.inputbox a {
+    
+    font-size: 15px;
+    font-style: bold;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: black;
+    
+}
